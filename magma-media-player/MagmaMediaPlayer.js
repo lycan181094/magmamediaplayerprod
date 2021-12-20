@@ -1,0 +1,1 @@
+import MediaPlayer from"./core/MediaPlayer.js";var MagmaMediaPlayer={create:e=>MediaPlayer.getInstance().createMediaPlayer(e),getPlayerById:e=>MediaPlayer.getInstance().getPlayerById(e),getPlayersById:e=>MediaPlayer.getInstance().getPlayersById(e)};export default MagmaMediaPlayer;
